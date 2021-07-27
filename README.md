@@ -1,8 +1,5 @@
 # weather_holiday
 
-WeatherPy Folder contains .
-VacationPy Folder contains the notebook and the required heatmap.
+WeatherPy Folder contains jupyter notebook and output files for weather analysis using python and data from an API.
+VacationPy Folder contains jupyter notebook with analysis of vacation locations based on the weather analysis.
 
-Thanks,
-
-Matthew Berry
