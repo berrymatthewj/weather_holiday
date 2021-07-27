@@ -1,8 +1,6 @@
-# python-API-challenge
+# weather_holiday
 
-HW 6
-
-WeatherPy Folder contains the notebook and the output folder with the required output files.
+WeatherPy Folder contains .
 VacationPy Folder contains the notebook and the required heatmap.
 
 Thanks,
